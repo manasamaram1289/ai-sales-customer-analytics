@@ -1,6 +1,6 @@
 # AI-Powered Sales & Customer Analytics Platform
 
-A beginner-friendly analytics project built with **Python, Pandas, SQL concepts and FastAPI**. It loads a sample sales dataset, validates the records, calculates business KPIs and exposes analytics through REST API endpoints.
+A data analytics project developed using Python, Pandas, SQL concepts, and FastAPI, featuring sales data validation, business KPI calculations, and REST API endpoints for accessing analytical insights.
 
 > **Dataset note:** `data/sample_sales.csv` is synthetic demonstration data generated for this repository. It is not a real company dataset and does not substantiate any claim about 10,000+ real sales records. Replace it with the original project dataset only if you have permission to share it.
 
